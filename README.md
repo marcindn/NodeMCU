@@ -54,15 +54,10 @@ Projekt ten sprawił mi naprawdę wiele frajdy, wiele się też nauczyłem, Miej
 <div></div>
 Cały proces opisałem szczegółowo, w razie jakieś pytań pisz na mojego instagrama <a href= "https://www.instagram.com/marcindn/" target="#">@marcindn</a>
 <div></div>
-<h3></h3>
---------------------------------------------------------------------------
-<div></div>
-Uwaga!
+<h3>Uwaga!</h3>
 <div></div>
 - Nie ponoszę odpowiedzialności za szkody wyrządzone tym urzędzeniem. Wszystko robisz na własną odpowiedzialność !
 <div></div>
 - Projekt powstał wyłącznie w celach edukacyjnych.
 <div></div>
 - Kod dodany w repozytorium nie jest mojego autorstwa tylko ludzi podanych w linku na górze.
-<div></div>
---------------------------------------------------------------------------
