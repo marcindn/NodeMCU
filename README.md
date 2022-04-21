@@ -22,7 +22,7 @@ Adres IP "192.168.4.1"
 <div></div>
 2.3 Tam odnaleźć dane urządzenie (będzie można rozpoznać to po dosyć dziwnej ikonce)
 <div></div>
-2.4 Kliknąć prawym przyciskiem w „właściwości” i kliknąć „znajdź sterowniki” wybrać folder o nazwie „sterowniki” i je zainstalować (jeżeli się instaluje, powinna się świecić lampka)
+2.4 Kliknąć prawym przyciskiem w „właściwości” i kliknąć „sterowniki” wybrać folder o nazwie „sterowniki” i je zainstalować (jeżeli się instaluje, powinna się świecić lampka)
 <div></div>
 2.5 Następnie po zainstalowaniu sterowników odłączyć urządzenie i je ponownie podłączyć (Sterowniki powinny być zainstalowane)
 <div></div>
