@@ -14,7 +14,7 @@ Adres IP "192.168.4.1"
 <h2>Instalacja</h2>
 1. Urządzenie podłączamy do komputera (Powinna zaświecić się niebieska lampka)
 <div></div>
-2. Włączyć program o nazwie „nodemcu-flasher”
+2. Włączyć program o nazwie „nodemcu-flasher” (Folder „64")
 <div></div>
 2.1 Jeżeli po wpięciu nie wykrywa urządzenia (powinno pisać „COM*") oznacz to że sterownik nie są wgrane
 <div></div>
